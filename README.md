@@ -4,5 +4,5 @@ Meu nome é Matheus Henrique e atualmente estou cursando Segurança da Informaç
 ##
 
 <div>
-<a href=" https://www.linkedin.com/in/matheus-lima-7221351a2/" targat="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Wbseries_linkdin.png"></a>
+<a href=" https://www.linkedin.com/in/matheus-lima-7221351a2/" targat="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
 </div>
