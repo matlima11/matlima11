@@ -8,7 +8,7 @@ Meu nome é Matheus Henrique e atualmente estou cursando Segurança da Informaç
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matlima11)](https://github.com/matlima11/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matlima11&theme=radical)](https://github.com/matlima11/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlima11)](https://github.com/matlima11/github-readme-stats)
 
 
