@@ -12,3 +12,9 @@ Meu nome é Matheus Henrique e atualmente estou cursando Segurança da Informaç
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matlima11&layout=compact&langs_count=8)](https://github.com/matlima11/github-readme-stats)
 
 
+<a href="https://github.com/matlima11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matlima11&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/matlima11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlima11&layout=compact&langs_count=8" />
+</a>
